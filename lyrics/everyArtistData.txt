@@ -1,0 +1,8 @@
+Name of artist: Madd
+- Total unique words per total words: 8185 / 61168
+- Top 3 most used words: w - f - ana
+
+Name of artist: Kira7
+- Total unique words per total words: 8185 / 61168
+- Top 3 most used words (more than 4 letters): machi - ga3ma - wakha
+
